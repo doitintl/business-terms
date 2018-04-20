@@ -11,7 +11,7 @@ You ([customer-name]), located at [customer-address] are hiring DoiT Internation
 What do both parties agree to do?
 You: You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us everything we need to provide you with our support and consulting as and when and in the format we need it. You’ll review our work, provide feedback and approval in a timely manner too. You also agree to stick to the payment schedule.
 
-Us: We have the experience and ability to do everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll endeavour to meet every deadline that’s set and on top of that we'll maintain the confidentiality of everything you give us.
+Us: We have the experience and ability to provide you with public cloud consulting and support and we’ll do it all in a professional and timely manner. We’ll endeavour to meet every deadline that’s set and on top of that we'll maintain the confidentiality of everything you give us.
 
 **Consulting & Support**
 From time to time, we will provide you with cloud engineering advice as per your request. You agree to request advice or support using our support.doit-intl.com portal which we have crafted exactly for this purpose. We will allocate a consultant from our staff as we see fit to the matter of issue at hand. You’ll have multiple opportunities to review our work and provide feedback. Both consulting and support are given for free unless stated otherwise elsewhere. 
